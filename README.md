@@ -1,2 +1,2 @@
 # Python_darslar
-Bu codlar o'rganish vaqtida yozilgan
+Bu codlar Python darsini o'rganish vaqtida yozilgan.
